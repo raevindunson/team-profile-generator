@@ -37,3 +37,5 @@ function memberInput() {
 // For manager - add office number
 
 memberInput();
+
+// Received some help from https://github.com/RyanEllingson/Team-Profile-Generator
